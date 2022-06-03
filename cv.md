@@ -14,7 +14,7 @@
 
 ## About myself
 
-I decided to completely change my type of professional activity. I am a person with a humanitarian education, but very active and easily trained. Previously engaged in journalism: worked on radio and in a magazine. Ready to work hard to achieve the goal. I love running and good humor.
+I decided to completely change my type of professional activity. I am a person with a humanitarian education, but very active and easily trained. Previously engaged in journalism: worked on radio and in a magazines. Ready to work hard to achieve the goal. I love running and good humor.
 
 *****
 
@@ -65,6 +65,6 @@ I decided to completely change my type of professional activity. I am a person w
 
 * English - A2
 * Polish - B1
-* Belarusian/Russian - Nativ
+* Belarusian/Russian - Native
 
 *****
