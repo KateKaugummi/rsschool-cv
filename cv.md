@@ -49,3 +49,22 @@ I decided to completely change my type of professional activity. I am a person w
 ~~~
 
 *****
+
+## Education
+
+* **Belarusian State Pedagogical University**
+    * Journalism
+    
+* **Courses:**
+    * [Junior QA](https://belhard.academy/testing "Junior QA")
+    * [JS / FRONT-END. STAGE 0 (Now)](https://rs.school/js-stage0/ "JS / FRONT-END")
+
+****
+
+## Languages
+
+* English - A2
+* Polish - B1
+* Belarusian/Russian - Nativ
+
+*****
