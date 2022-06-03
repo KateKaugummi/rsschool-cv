@@ -62,3 +62,11 @@ I decided to completely change my type of professional activity. I am a person w
 
 ****
 
+## Languages
+
+* English - A2
+* Polish - B1
+* Belarusian/Russian - Nativ
+
+*****
+
