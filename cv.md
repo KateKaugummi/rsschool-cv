@@ -1,0 +1,51 @@
+# Katsiaryna Harai-Kamockaya
+
+*****
+
+## Contacts
+
+* **Location:** Vilnius, Lithuania
+* **Phone:** +37069330393
+* **E-mail:** katerina.garai@gmail.com
+* **Telegram:** katekaugummi
+* **GitHub:** KateKaugummi
+
+*****
+
+## About myself
+
+I decided to completely change my type of professional activity. I am a person with a humanitarian education, but very active and easily trained. Previously engaged in journalism: worked on radio and in a magazine. Ready to work hard to achieve the goal. I love running and good humor.
+
+*****
+
+## Skils
+
+* HTML
+* CSS
+* JavaScript
+
+*****
+
+## Code Examples
+
+~~~
+
+<!DOCTYPE HTML>
+<html>
+
+<body>
+
+  <p>Before the script...</p>
+
+  <script>
+    alert( 'Hello, world!' );
+  </script>
+
+  <p>...After the script.</p>
+
+</body>
+
+</html>
+~~~
+
+*****
